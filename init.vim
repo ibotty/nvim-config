@@ -1,3 +1,5 @@
+runtime vendor/vim-plug/plug.vim
+
 syntax on
 filetype plugin indent on
 set background=dark
